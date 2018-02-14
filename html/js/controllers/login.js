@@ -41,11 +41,11 @@ thinwalletCtrls.controller("LoginCtrl", function($scope, $location, AccountServi
 
     if (config.testnet == true) {
         // just some dummy account, as not to fill login form every time.
-        $scope.mnemonic = "agenda shrugged liquid extra mundane phone nomad oust duckling sifting pledge loyal royal urban skater bawled gusts bounced boil violin mumble gags axle sapling shrugged";
+        $scope.mnemonic = "agenda liquid shrugged extra mundane nomad phone oust duckling pledge loyal royal sifting urban skater bawled gusts bounced boil violin mumble gags axle sapling shrugged";
     } else {
         $scope.decode = false;
-        $scope.address = "44AFFq5kSiGBoZ4NMDwYtN18obc8AemS33DBLWs3H7otXft3XjrpDtQGv7SqSsaBYBb98uNbr2VBBEt7f2wfn3RVGQBEP3A";
-        $scope.view_key = "f359631075708155cc3d92a32b75a7d02a5dcf27756707b47a2b31b21c389501" ;
+        $scope.address = "XSwVkm6aNxF5561yAeAssYZijk5op57G342vdniS7zYBB5tMtJci9pCAfw6wsGNwopHHoDRLfZNA5BbAw8xjHYfW2jaA2VBPs";
+        $scope.view_key = "292607d410c939d21693c79c2eab61639fa4c1e168423f4ef68f577d7455c9f6" ;
     }
 
 
