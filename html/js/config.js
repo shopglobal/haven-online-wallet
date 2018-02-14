@@ -1,7 +1,7 @@
 var config = {
   apiUrl: "http://165.227.189.226:1984/",
-  mainnetExplorerUrl: "https://explorer.myntnote.org/",
-  testnetExplorerUrl: "https://testnet.myntnote.com/",
+  mainnetExplorerUrl: "https://explorer.myntpulse.org/",
+  testnetExplorerUrl: "https://testnet.myntpulse.com/",
   testnet: false,
   coinUnitPlaces: 12,
   txMinConfirms: 10,         // corresponds to CRYPTONOTE_DEFAULT_TX_SPENDABLE_AGE in Monero
