@@ -1,6 +1,6 @@
 var config = {
   apiUrl: "http://165.227.189.226:1984/",
-  mainnetExplorerUrl: "https://explorer.myntnote.org",
+  mainnetExplorerUrl: "https://explorer.myntnote.org/",
   testnetExplorerUrl: "https://testnet.myntnote.com/",
   testnet: false,
   coinUnitPlaces: 12,
