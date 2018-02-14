@@ -126,7 +126,7 @@ thinwalletCtrls.controller('TransactionDetailsCtrl', function ($scope,
             $scope.error = 'Failed to get tx detailed from the backend';
         });
 
-    $scope.explorerLink = explorerUrl + "tx/" + tx_hash;
+    $scope.explorerLink = explorerUrl + "block/" + tx_hash;
 
 
 });
