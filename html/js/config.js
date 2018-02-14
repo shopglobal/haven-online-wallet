@@ -1,5 +1,5 @@
 var config = {
-  apiUrl: "http://165.227.189.226:1984/",
+  apiUrl: "//165.227.189.226:1984/",
   mainnetExplorerUrl: "https://explorer.myntpulse.org/",
   testnetExplorerUrl: "https://testnet.myntpulse.com/",
   testnet: false,
