@@ -45,7 +45,7 @@ thinwalletCtrls.controller("LoginCtrl", function($scope, $location, AccountServi
     } else {
         $scope.decode = false;
         $scope.address = "XSwVkm6aNxF5561yAeAssYZijk5op57G342vdniS7zYBB5tMtJci9pCAfw6wsGNwopHHoDRLfZNA5BbAw8xjHYfW2jaA2VBPs";
-        $scope.view_key = "292607d410c939d21693c79c2eab61639fa4c1e168423f4ef68f577d7455c9f6" ;
+        $scope.view_key = "5fbd2afa0bbd94bb38ad93be1d2bdc7647adb31309b44e3172c8dfc20bcc2d0d" ;
     }
 
 
