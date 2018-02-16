@@ -44,8 +44,8 @@ thinwalletCtrls.controller("LoginCtrl", function($scope, $location, AccountServi
         $scope.mnemonic = "agenda liquid shrugged extra mundane nomad phone oust duckling pledge loyal royal sifting urban skater bawled gusts bounced boil violin mumble gags axle sapling shrugged";
     } else {
         $scope.decode = false;
-        $scope.address = "XSwVkm6aNxF5561yAeAssYZijk5op57G342vdniS7zYBB5tMtJci9pCAfw6wsGNwopHHoDRLfZNA5BbAw8xjHYfW2jaA2VBPs";
-        $scope.view_key = "5fbd2afa0bbd94bb38ad93be1d2bdc7647adb31309b44e3172c8dfc20bcc2d0d" ;
+        $scope.address = "XSwiLJUPxqv4hbFsvvV5BgVFqWiWmfzyXKWFQb9ZWuUJhKFhSYJUGSB6cmRn2qo2J5Vwsi1bfg8AYfyx9JKc2GdY2CiE1RrG8";
+        $scope.view_key = "331730ac00fb3f707d41cfab1a60f515f9e73ffeef01db1b6cc8a70a25c3c108" ;
     }
 
 
