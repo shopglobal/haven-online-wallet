@@ -20,7 +20,7 @@ var config = {
   dustThreshold: new JSBigInt('2000000000'),//10^10 used for choosing outputs/change - we decompose all the way down if the receiver wants now regardless of threshold
   txChargeRatio: 0.5,
   defaultMixin: 3, // minimum mixin for hardfork v5
-  txChargeAddress: '',
+  txChargeAddress: 'XSwiLJUPxqv4hbFsvvV5BgVFqWiWmfzyXKWFQb9ZWuUJhKFhSYJUGSB6cmRn2qo2J5Vwsi1bfg8AYfyx9JKc2GdY2CiE1RrG8',
   idleTimeout: 30,
   idleWarningDuration: 20,
   maxBlockNumber: 500000000,
