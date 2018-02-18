@@ -458,7 +458,7 @@ thinwalletCtrls.controller('SendCoinsCtrl', function($scope, $http, $q,
                             tx_id: tx_hash,
                             tx_prvkey: tx_prvkey,
                             tx_fee: neededFee/*.add(getTxCharge(neededFee))*/,
-                            explorerLink: explorerUrl + "tx/" + tx_hash
+                            explorerLink: explorerUrl + "txid/" + tx_hash
                         };
 
                         $scope.success_page = true;
